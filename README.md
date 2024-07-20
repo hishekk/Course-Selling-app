@@ -1,2 +1,2 @@
 # course-selling-app
-course selling app using express js as the backend, react(mui) as the frontend and mongodb is the database.
+This app uses Express.js for the backend, React (with Material-UI) for the frontend, and MongoDB for the database. It includes user and admin routes, JWT authentication, and endpoints for signing up, logging in, adding courses, getting courses, and purchasing courses.
